@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1000px" height="655px" font-size="13px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="536px" font-size="15px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -13,93 +13,93 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1000px" height="655px" fill="#161b22" rx="15"/>
-<text fill="#f0f6fc" font-size="8px" font-weight="bold">
+<rect width="985px" height="536px" fill="#161b22" rx="15"/>
+<text fill="#f0f6fc" font-size="6.5px" font-weight="bold">
 <tspan x="15" y="20.0" textLength="0.0" lengthAdjust="spacing"></tspan>
-<tspan x="15" y="29.4" textLength="0.0" lengthAdjust="spacing"></tspan>
-<tspan x="15" y="38.8" textLength="0.0" lengthAdjust="spacing"></tspan>
-<tspan x="15" y="48.2" textLength="0.0" lengthAdjust="spacing"></tspan>
-<tspan x="15" y="57.6" textLength="0.0" lengthAdjust="spacing"></tspan>
-<tspan x="15" y="67.0" textLength="225.6" lengthAdjust="spacing">                                         :...:.</tspan>
-<tspan x="15" y="76.4" textLength="249.6" lengthAdjust="spacing">                                       .........:...</tspan>
-<tspan x="15" y="85.8" textLength="316.8" lengthAdjust="spacing">                                     :............  ...::   :...::</tspan>
-<tspan x="15" y="95.2" textLength="345.6" lengthAdjust="spacing">                           :::::::::.............. .::...:::.....::.....</tspan>
-<tspan x="15" y="104.6" textLength="355.2" lengthAdjust="spacing">                   :      :::::::::::.....................:.....:+:... .:+</tspan>
-<tspan x="15" y="114.0" textLength="374.4" lengthAdjust="spacing">                ++::::::::.:.:::.::..                   .:.....::::.  ...::..:</tspan>
-<tspan x="15" y="123.4" textLength="388.8" lengthAdjust="spacing">              ::::....::.... ::......                   ..........:...........:..</tspan>
-<tspan x="15" y="132.8" textLength="393.6" lengthAdjust="spacing">             :::::.:.:..... .:.......                  ..... .................::::</tspan>
-<tspan x="15" y="142.2" textLength="398.4" lengthAdjust="spacing">           ::.:::.............. ......  .................... ... ..........:...:...</tspan>
-<tspan x="15" y="151.6" textLength="408.0" lengthAdjust="spacing">         ::..:::..............  ......::::++++++++++:::::::.... .   ...............:+</tspan>
-<tspan x="15" y="161.0" textLength="412.8" lengthAdjust="spacing">        :::................   ......:++##################++++:. ...................:::</tspan>
-<tspan x="15" y="170.4" textLength="422.4" lengthAdjust="spacing">       ..:.....   ..  ..    .......:++######@@###############++.              ..........</tspan>
-<tspan x="15" y="179.8" textLength="422.4" lengthAdjust="spacing">      ..........                ..::++####@@@@@@##############++:.             ........:</tspan>
-<tspan x="15" y="189.2" textLength="417.6" lengthAdjust="spacing">    ::. ........                .::+++##########@@#############++::..           .......</tspan>
-<tspan x="15" y="198.6" textLength="417.6" lengthAdjust="spacing">   :.:.........                .:::++########################++++++::.                .</tspan>
-<tspan x="15" y="208.0" textLength="364.8" lengthAdjust="spacing">  +........           ..      ..::+++##########@##############+#++++::. . ..</tspan>
-<tspan x="15" y="217.4" textLength="412.8" lengthAdjust="spacing"> ::........   ...   .....   ..::++++#############################+++++:.             .</tspan>
-<tspan x="15" y="226.8" textLength="408.0" lengthAdjust="spacing">  :........  .... ......:...::++++#########@#@@@@@@#############++++++:.           ..</tspan>
-<tspan x="15" y="236.2" textLength="403.2" lengthAdjust="spacing"> ::.....   ........::++:::::+++###########@@@@@@@@@@@###########+++++++:.          .</tspan>
-<tspan x="15" y="245.6" textLength="403.2" lengthAdjust="spacing">  ::.....       .::++++++++++#############@@@####################++++++::.         .</tspan>
-<tspan x="15" y="255.0" textLength="398.4" lengthAdjust="spacing">   :......     .::++++++++++#########################++++++++++++++++++::..       .</tspan>
-<tspan x="15" y="264.4" textLength="398.4" lengthAdjust="spacing">   ...        .:::+++:::::::::::::++++++##########+::::............:::+:::.       .</tspan>
-<tspan x="15" y="273.8" textLength="398.4" lengthAdjust="spacing">    ...       .::++::.............::::+++######++++:..........     ....:::..      .</tspan>
-<tspan x="15" y="283.2" textLength="398.4" lengthAdjust="spacing">    :..      .::::::......:::....:::::+++######+++::::::::::::::::::......:.     ..</tspan>
-<tspan x="15" y="292.6" textLength="398.4" lengthAdjust="spacing">    :..      .::..::::+++++++++:::::::::++#####++:::::::::++++++++:::::.....     ..</tspan>
-<tspan x="15" y="302.0" textLength="398.4" lengthAdjust="spacing">      ..     :::.::++++++++++++:::::::::++#####++:::::::::++++++:::::::::...    ...</tspan>
-<tspan x="15" y="311.4" textLength="398.4" lengthAdjust="spacing">       .    .:::::+:::::++++#++::::::::::+######+:::::::::::::::::::.:::::..    ...</tspan>
-<tspan x="15" y="320.8" textLength="398.4" lengthAdjust="spacing">        .   .:::::::::::::......:::::+++++#######+:::..::. ... ......::::::.    ...</tspan>
-<tspan x="15" y="330.2" textLength="398.4" lengthAdjust="spacing">         . ..::::+::::......::.:++:++++++####@###+:::++::::::.::....::::::::   ....</tspan>
-<tspan x="15" y="339.6" textLength="403.2" lengthAdjust="spacing">         :...:++++++++:::::+++::::++++++#####@###+:++++++:::::::::::+++++:::..::::.:</tspan>
-<tspan x="15" y="349.0" textLength="393.6" lengthAdjust="spacing">       ++#+:.:++++####++++++++++++###+++#####@###++:++++++++++++++++++++++::.:::::</tspan>
-<tspan x="15" y="358.4" textLength="393.6" lengthAdjust="spacing">       +++++:+++++###################++######@###+++++++#############+++++:::.::::</tspan>
-<tspan x="15" y="367.8" textLength="393.6" lengthAdjust="spacing">       +++++:++++####################++######@####++++++##############++++:::.::+:</tspan>
-<tspan x="15" y="377.2" textLength="388.8" lengthAdjust="spacing">        #+++:++++####################+#######@####++++++###############++++::.::+</tspan>
-<tspan x="15" y="386.6" textLength="388.8" lengthAdjust="spacing">        ##++:+++###################################+++++################++++:.++:</tspan>
-<tspan x="15" y="396.0" textLength="384.0" lengthAdjust="spacing">         ##+:++#####################################++++++##############++++:.++</tspan>
-<tspan x="15" y="405.4" textLength="384.0" lengthAdjust="spacing">         +##:++############+++++###+++#############++:++++++++########++++:::.:+</tspan>
-<tspan x="15" y="414.8" textLength="384.0" lengthAdjust="spacing">          +#:++++++++++++++:++#####+:.::++#######++::..::++++++++++++++++::::.+:</tspan>
-<tspan x="15" y="424.2" textLength="388.8" lengthAdjust="spacing">            .:+++++++++++:::+++++++::.....:+++++::......::+++++:::::++++:::::.:+:</tspan>
-<tspan x="15" y="433.6" textLength="388.8" lengthAdjust="spacing">            ::::+++++::::::+::++::::..... ..::..      ...::::::::::::+++::::..++:</tspan>
-<tspan x="15" y="443.0" textLength="384.0" lengthAdjust="spacing">            :.:.:::::+:::::::::::::......  ...       .....::.::.:.:::+:::::...++</tspan>
-<tspan x="15" y="452.4" textLength="379.2" lengthAdjust="spacing">             ....:::::::..:....:::::::::::::::::::....:::::.........:+::::.. ..</tspan>
-<tspan x="15" y="461.8" textLength="379.2" lengthAdjust="spacing">             :....::::::.......::::::+++++++++++++::::::::::..:.::::::::.. ....</tspan>
-<tspan x="15" y="471.2" textLength="374.4" lengthAdjust="spacing">              :...:::::::::::::::::::::::::::::::::::::::::::::::::::::...  ..</tspan>
-<tspan x="15" y="480.6" textLength="374.4" lengthAdjust="spacing">               .....:.:::::++++++++++++#######++++++++++++++++++:::::..... ...</tspan>
-<tspan x="15" y="490.0" textLength="374.4" lengthAdjust="spacing">                ....:.:::::+++++++++++++++++##+++++++++++++++++++:::..........</tspan>
-<tspan x="15" y="499.4" textLength="374.4" lengthAdjust="spacing">                :.....:::.:++++++++++++++++++++++++++++++++++++:::::.....  ...</tspan>
-<tspan x="15" y="508.8" textLength="379.2" lengthAdjust="spacing">                #:........::++++++::::++::++++++++++:::++++++++::......   .....</tspan>
-<tspan x="15" y="518.2" textLength="379.2" lengthAdjust="spacing">                ##:........:+++++++::::........::::::::+++++++:::.....   ......</tspan>
-<tspan x="15" y="527.6" textLength="379.2" lengthAdjust="spacing">                ###........::+++++++:::............:::+++++++::......   .......</tspan>
-<tspan x="15" y="537.0" textLength="379.2" lengthAdjust="spacing">                ####:.......:++#####++:.::.........::+++++++::......   .:::....</tspan>
-<tspan x="15" y="546.4" textLength="374.4" lengthAdjust="spacing">                #####.......::++###+#+::::::.:::.::+++++++++::..      ..:++++.</tspan>
-<tspan x="15" y="555.8" textLength="364.8" lengthAdjust="spacing">                @@@@#:.. ....:::++++++++:++::+:::+++++++++:::..      ...++++</tspan>
-<tspan x="15" y="565.2" textLength="360.0" lengthAdjust="spacing">                ##@@#+::.   ..:::::+++:+++++++:::+++++++++:.....    ...:##+</tspan>
-<tspan x="15" y="574.6" textLength="360.0" lengthAdjust="spacing">                ####+++::.  ...::::+::::::++:++::+::::::::.....   ...:::###</tspan>
-<tspan x="15" y="584.0" textLength="360.0" lengthAdjust="spacing">                +#+:++++::.. ..::::::::::::::+:::::::::::....    ...::::+##</tspan>
-<tspan x="15" y="593.4" textLength="360.0" lengthAdjust="spacing">                +:::++++++::.......:::.:.:::::::::.:::......    ..::::::.+#</tspan>
-<tspan x="15" y="602.8" textLength="360.0" lengthAdjust="spacing">                  +++++++++:::.........:.:..:....:.::......   ...:::::::..:</tspan>
-<tspan x="15" y="612.2" textLength="374.4" lengthAdjust="spacing">                  +++++++++++::..........................  ....::::::::......:</tspan>
-<tspan x="15" y="621.6" textLength="384.0" lengthAdjust="spacing">                 +++++++++++++::::...............  .   ......::::::::::........:</tspan>
-<tspan x="15" y="631.0" textLength="388.8" lengthAdjust="spacing">                 +++++++++++++++::::::.....................::::::::::::..........</tspan>
+<tspan x="15" y="27.6" textLength="0.0" lengthAdjust="spacing"></tspan>
+<tspan x="15" y="35.2" textLength="0.0" lengthAdjust="spacing"></tspan>
+<tspan x="15" y="42.8" textLength="0.0" lengthAdjust="spacing"></tspan>
+<tspan x="15" y="50.4" textLength="0.0" lengthAdjust="spacing"></tspan>
+<tspan x="15" y="58.0" textLength="183.3" lengthAdjust="spacing">                                         :...:.</tspan>
+<tspan x="15" y="65.6" textLength="202.8" lengthAdjust="spacing">                                       .........:...</tspan>
+<tspan x="15" y="73.2" textLength="257.4" lengthAdjust="spacing">                                     :............  ...::   :...::</tspan>
+<tspan x="15" y="80.8" textLength="280.8" lengthAdjust="spacing">                           :::::::::.............. .::...:::.....::.....</tspan>
+<tspan x="15" y="88.4" textLength="288.6" lengthAdjust="spacing">                   :      :::::::::::.....................:.....:+:... .:+</tspan>
+<tspan x="15" y="96.0" textLength="304.2" lengthAdjust="spacing">                ++::::::::.:.:::.::..                   .:.....::::.  ...::..:</tspan>
+<tspan x="15" y="103.6" textLength="315.9" lengthAdjust="spacing">              ::::....::.... ::......                   ..........:...........:..</tspan>
+<tspan x="15" y="111.2" textLength="319.8" lengthAdjust="spacing">             :::::.:.:..... .:.......                  ..... .................::::</tspan>
+<tspan x="15" y="118.8" textLength="323.7" lengthAdjust="spacing">           ::.:::.............. ......  .................... ... ..........:...:...</tspan>
+<tspan x="15" y="126.4" textLength="331.5" lengthAdjust="spacing">         ::..:::..............  ......::::++++++++++:::::::.... .   ...............:+</tspan>
+<tspan x="15" y="134.0" textLength="335.4" lengthAdjust="spacing">        :::................   ......:++##################++++:. ...................:::</tspan>
+<tspan x="15" y="141.6" textLength="343.2" lengthAdjust="spacing">       ..:.....   ..  ..    .......:++######@@###############++.              ..........</tspan>
+<tspan x="15" y="149.2" textLength="343.2" lengthAdjust="spacing">      ..........                ..::++####@@@@@@##############++:.             ........:</tspan>
+<tspan x="15" y="156.8" textLength="339.3" lengthAdjust="spacing">    ::. ........                .::+++##########@@#############++::..           .......</tspan>
+<tspan x="15" y="164.4" textLength="339.3" lengthAdjust="spacing">   :.:.........                .:::++########################++++++::.                .</tspan>
+<tspan x="15" y="172.0" textLength="296.4" lengthAdjust="spacing">  +........           ..      ..::+++##########@##############+#++++::. . ..</tspan>
+<tspan x="15" y="179.6" textLength="335.4" lengthAdjust="spacing"> ::........   ...   .....   ..::++++#############################+++++:.             .</tspan>
+<tspan x="15" y="187.2" textLength="331.5" lengthAdjust="spacing">  :........  .... ......:...::++++#########@#@@@@@@#############++++++:.           ..</tspan>
+<tspan x="15" y="194.8" textLength="327.6" lengthAdjust="spacing"> ::.....   ........::++:::::+++###########@@@@@@@@@@@###########+++++++:.          .</tspan>
+<tspan x="15" y="202.4" textLength="327.6" lengthAdjust="spacing">  ::.....       .::++++++++++#############@@@####################++++++::.         .</tspan>
+<tspan x="15" y="210.0" textLength="323.7" lengthAdjust="spacing">   :......     .::++++++++++#########################++++++++++++++++++::..       .</tspan>
+<tspan x="15" y="217.6" textLength="323.7" lengthAdjust="spacing">   ...        .:::+++:::::::::::::++++++##########+::::............:::+:::.       .</tspan>
+<tspan x="15" y="225.2" textLength="323.7" lengthAdjust="spacing">    ...       .::++::.............::::+++######++++:..........     ....:::..      .</tspan>
+<tspan x="15" y="232.8" textLength="323.7" lengthAdjust="spacing">    :..      .::::::......:::....:::::+++######+++::::::::::::::::::......:.     ..</tspan>
+<tspan x="15" y="240.4" textLength="323.7" lengthAdjust="spacing">    :..      .::..::::+++++++++:::::::::++#####++:::::::::++++++++:::::.....     ..</tspan>
+<tspan x="15" y="248.0" textLength="323.7" lengthAdjust="spacing">      ..     :::.::++++++++++++:::::::::++#####++:::::::::++++++:::::::::...    ...</tspan>
+<tspan x="15" y="255.6" textLength="323.7" lengthAdjust="spacing">       .    .:::::+:::::++++#++::::::::::+######+:::::::::::::::::::.:::::..    ...</tspan>
+<tspan x="15" y="263.2" textLength="323.7" lengthAdjust="spacing">        .   .:::::::::::::......:::::+++++#######+:::..::. ... ......::::::.    ...</tspan>
+<tspan x="15" y="270.8" textLength="323.7" lengthAdjust="spacing">         . ..::::+::::......::.:++:++++++####@###+:::++::::::.::....::::::::   ....</tspan>
+<tspan x="15" y="278.4" textLength="327.6" lengthAdjust="spacing">         :...:++++++++:::::+++::::++++++#####@###+:++++++:::::::::::+++++:::..::::.:</tspan>
+<tspan x="15" y="286.0" textLength="319.8" lengthAdjust="spacing">       ++#+:.:++++####++++++++++++###+++#####@###++:++++++++++++++++++++++::.:::::</tspan>
+<tspan x="15" y="293.6" textLength="319.8" lengthAdjust="spacing">       +++++:+++++###################++######@###+++++++#############+++++:::.::::</tspan>
+<tspan x="15" y="301.2" textLength="319.8" lengthAdjust="spacing">       +++++:++++####################++######@####++++++##############++++:::.::+:</tspan>
+<tspan x="15" y="308.8" textLength="315.9" lengthAdjust="spacing">        #+++:++++####################+#######@####++++++###############++++::.::+</tspan>
+<tspan x="15" y="316.4" textLength="315.9" lengthAdjust="spacing">        ##++:+++###################################+++++################++++:.++:</tspan>
+<tspan x="15" y="324.0" textLength="312.0" lengthAdjust="spacing">         ##+:++#####################################++++++##############++++:.++</tspan>
+<tspan x="15" y="331.6" textLength="312.0" lengthAdjust="spacing">         +##:++############+++++###+++#############++:++++++++########++++:::.:+</tspan>
+<tspan x="15" y="339.2" textLength="312.0" lengthAdjust="spacing">          +#:++++++++++++++:++#####+:.::++#######++::..::++++++++++++++++::::.+:</tspan>
+<tspan x="15" y="346.8" textLength="315.9" lengthAdjust="spacing">            .:+++++++++++:::+++++++::.....:+++++::......::+++++:::::++++:::::.:+:</tspan>
+<tspan x="15" y="354.4" textLength="315.9" lengthAdjust="spacing">            ::::+++++::::::+::++::::..... ..::..      ...::::::::::::+++::::..++:</tspan>
+<tspan x="15" y="362.0" textLength="312.0" lengthAdjust="spacing">            :.:.:::::+:::::::::::::......  ...       .....::.::.:.:::+:::::...++</tspan>
+<tspan x="15" y="369.6" textLength="308.1" lengthAdjust="spacing">             ....:::::::..:....:::::::::::::::::::....:::::.........:+::::.. ..</tspan>
+<tspan x="15" y="377.2" textLength="308.1" lengthAdjust="spacing">             :....::::::.......::::::+++++++++++++::::::::::..:.::::::::.. ....</tspan>
+<tspan x="15" y="384.8" textLength="304.2" lengthAdjust="spacing">              :...:::::::::::::::::::::::::::::::::::::::::::::::::::::...  ..</tspan>
+<tspan x="15" y="392.4" textLength="304.2" lengthAdjust="spacing">               .....:.:::::++++++++++++#######++++++++++++++++++:::::..... ...</tspan>
+<tspan x="15" y="400.0" textLength="304.2" lengthAdjust="spacing">                ....:.:::::+++++++++++++++++##+++++++++++++++++++:::..........</tspan>
+<tspan x="15" y="407.6" textLength="304.2" lengthAdjust="spacing">                :.....:::.:++++++++++++++++++++++++++++++++++++:::::.....  ...</tspan>
+<tspan x="15" y="415.2" textLength="308.1" lengthAdjust="spacing">                #:........::++++++::::++::++++++++++:::++++++++::......   .....</tspan>
+<tspan x="15" y="422.8" textLength="308.1" lengthAdjust="spacing">                ##:........:+++++++::::........::::::::+++++++:::.....   ......</tspan>
+<tspan x="15" y="430.4" textLength="308.1" lengthAdjust="spacing">                ###........::+++++++:::............:::+++++++::......   .......</tspan>
+<tspan x="15" y="438.0" textLength="308.1" lengthAdjust="spacing">                ####:.......:++#####++:.::.........::+++++++::......   .:::....</tspan>
+<tspan x="15" y="445.6" textLength="304.2" lengthAdjust="spacing">                #####.......::++###+#+::::::.:::.::+++++++++::..      ..:++++.</tspan>
+<tspan x="15" y="453.2" textLength="296.4" lengthAdjust="spacing">                @@@@#:.. ....:::++++++++:++::+:::+++++++++:::..      ...++++</tspan>
+<tspan x="15" y="460.8" textLength="292.5" lengthAdjust="spacing">                ##@@#+::.   ..:::::+++:+++++++:::+++++++++:.....    ...:##+</tspan>
+<tspan x="15" y="468.4" textLength="292.5" lengthAdjust="spacing">                ####+++::.  ...::::+::::::++:++::+::::::::.....   ...:::###</tspan>
+<tspan x="15" y="476.0" textLength="292.5" lengthAdjust="spacing">                +#+:++++::.. ..::::::::::::::+:::::::::::....    ...::::+##</tspan>
+<tspan x="15" y="483.6" textLength="292.5" lengthAdjust="spacing">                +:::++++++::.......:::.:.:::::::::.:::......    ..::::::.+#</tspan>
+<tspan x="15" y="491.2" textLength="292.5" lengthAdjust="spacing">                  +++++++++:::.........:.:..:....:.::......   ...:::::::..:</tspan>
+<tspan x="15" y="498.8" textLength="304.2" lengthAdjust="spacing">                  +++++++++++::..........................  ....::::::::......:</tspan>
+<tspan x="15" y="506.4" textLength="312.0" lengthAdjust="spacing">                 +++++++++++++::::...............  .   ......::::::::::........:</tspan>
+<tspan x="15" y="514.0" textLength="315.9" lengthAdjust="spacing">                 +++++++++++++++::::::.....................::::::::::::..........</tspan>
 </text>
 <text fill="#c9d1d9">
-<tspan x="462" y="129">hashem@awad ------------------------------------------------------</tspan>
-<tspan x="462" y="153"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">Fedora Linux</tspan></tspan>
-<tspan x="462" y="177"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">22 years, 2 months, 9 days</tspan></tspan>
-<tspan x="462" y="201"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">American University of Beirut (AUB)</tspan></tspan>
-<tspan x="462" y="225"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">B.S. Computer Science, class of 2027</tspan></tspan>
-<tspan x="462" y="249"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................................... </tspan><tspan class="value">VS Code</tspan></tspan>
-<tspan x="462" y="273">. </tspan>
-<tspan x="462" y="297"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Java, C, C++, Python, Ruby, JavaScript</tspan></tspan>
-<tspan x="462" y="321"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">HTML, CSS, SQL, LaTeX</tspan></tspan>
-<tspan x="462" y="345"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Arabic, English</tspan></tspan>
-<tspan x="462" y="369">. </tspan>
-<tspan x="462" y="393"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Linux Ricing</tspan></tspan>
-<tspan x="462" y="417"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Swimming</tspan></tspan>
-<tspan x="462" y="441">. </tspan>
-<tspan x="462" y="465">- Contact --------------------------------------------------------</tspan>
-<tspan x="462" y="489"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Hashemawaddd@gmail.com</tspan></tspan>
-<tspan x="462" y="513"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">University</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">hia33@mail.aub.edu</tspan></tspan>
-<tspan x="462" y="537"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">hashem-awad-4429ba24a</tspan></tspan>
+<tspan x="385" y="70">hashem@awad -----------------------------------------------------</tspan>
+<tspan x="385" y="94"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">Fedora Linux</tspan></tspan>
+<tspan x="385" y="118"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">22 years, 2 months, 9 days</tspan></tspan>
+<tspan x="385" y="142"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">American University of Beirut (AUB)</tspan></tspan>
+<tspan x="385" y="166"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">B.S. Computer Science, class of 2027</tspan></tspan>
+<tspan x="385" y="190"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................................. </tspan><tspan class="value">VS Code</tspan></tspan>
+<tspan x="385" y="214">. </tspan>
+<tspan x="385" y="238"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Java, C, C++, Python, Ruby, JavaScript</tspan></tspan>
+<tspan x="385" y="262"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">HTML, CSS, SQL, LaTeX</tspan></tspan>
+<tspan x="385" y="286"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Arabic, English</tspan></tspan>
+<tspan x="385" y="310">. </tspan>
+<tspan x="385" y="334"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Linux Ricing</tspan></tspan>
+<tspan x="385" y="358"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">Swimming</tspan></tspan>
+<tspan x="385" y="382">. </tspan>
+<tspan x="385" y="406">- Contact -------------------------------------------------------</tspan>
+<tspan x="385" y="430"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Hashemawaddd@gmail.com</tspan></tspan>
+<tspan x="385" y="454"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">University</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">hia33@mail.aub.edu</tspan></tspan>
+<tspan x="385" y="478"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">hashem-awad-4429ba24a</tspan></tspan>
 </text>
 </svg>

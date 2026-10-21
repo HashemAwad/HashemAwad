@@ -3,9 +3,9 @@ import datetime
 from html import escape
 
 BIRTHDAY = datetime.date(2004, 8, 12)
-W = 66  # characters per text line
-ART_LINE = 9.4  # px between portrait rows (portrait font is 8px)
-ART_CELL = 4.8  # px per portrait column; each row's width is pinned to this so the face keeps its proportions in any font
+W = 65  # characters per text line
+ART_LINE = 7.6  # px between portrait rows (portrait font is 6.5px)
+ART_CELL = 3.9  # px per portrait column; each row's width is pinned to this so the face keeps its proportions in any font
 ROW = 24  # px between text rows
 
 # ("head", text) | ("kv", key, value) | ("blank",); "{age}" in a value is replaced by the live age
@@ -80,9 +80,9 @@ def build(art, theme, today):
         f'<tspan x="15" y="{20 + i * ART_LINE:.1f}" textLength="{len(line) * ART_CELL:.1f}" lengthAdjust="spacing">{escape(line)}</tspan>'
         for i, line in enumerate(art_lines)
     )
-    text_xml = "\n".join(f'<tspan x="462" y="{y0 + i * ROW}">{line}</tspan>' for i, line in enumerate(lines))
+    text_xml = "\n".join(f'<tspan x="385" y="{y0 + i * ROW}">{line}</tspan>' for i, line in enumerate(lines))
     return f"""<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1000px" height="{height}px" font-size="13px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="{height}px" font-size="15px">
 <style>
 @font-face {{
 src: local('Consolas'), local('Consolas Bold');
@@ -96,8 +96,8 @@ size-adjust: 109%;
 .cc {{fill: {theme['cc']};}}
 text, tspan {{white-space: pre;}}
 </style>
-<rect width="1000px" height="{height}px" fill="{theme['bg']}" rx="15"/>
-<text fill="{theme['art']}" font-size="8px" font-weight="bold">
+<rect width="985px" height="{height}px" fill="{theme['bg']}" rx="15"/>
+<text fill="{theme['art']}" font-size="6.5px" font-weight="bold">
 {art_xml}
 </text>
 <text fill="{theme['fg']}">
